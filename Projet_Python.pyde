@@ -20,7 +20,7 @@ minim = None # Minim variable to play sound
 ambiance = None # Ambiance sound
 
 """
-  Permission obtenue auprès de M.Lezowski, d'utiliser les class (et la programation orientée objet)
+  Permission obtenue auprès de M.Lezowski, d'utiliser les class (et la programmation orientée objet)
 """
 
 def setup(): # init
